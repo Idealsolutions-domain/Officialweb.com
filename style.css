@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: blue;
 }
 
 .cta {
@@ -51,7 +51,7 @@ p {
 	position:relative;
 	color: white;
 	background-color: transparent;
-	border: 3px solid crimson;
+	border: 3px solid blue;
 	font-size: 0.1rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -61,7 +61,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: crimson;
+	background-color: blue;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -69,7 +69,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: crimson;
+	color: blue;
 }
 
 /* Header section */
@@ -141,7 +141,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color: blue;
 }
 #header .hamburger {
 	height: 60px;
@@ -449,7 +449,7 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid crimson;
+	border: 7px solid blue;
 	z-index: -1;
 }
 /* End About Section */
@@ -631,7 +631,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid crimson;
+		border: 10px solid blue;
 	}
 	#about .col-right {
 		text-align: left;
