@@ -24,11 +24,8 @@ img {
 	width: 100%;
 	object-fit: cover;
 }
-logo {
 
-	height: fit-to size;
-	width: strech;
-}
+
 p {
 	color: black;
 	font-size: 1.4rem;
