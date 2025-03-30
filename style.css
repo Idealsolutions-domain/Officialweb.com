@@ -255,12 +255,15 @@ p {
 }
 #hero h1:nth-child(1) span {
 	animation-delay: 0.5s;
+	color: blue;
 }
 #hero h1:nth-child(2) span {
 	animation-delay: 1.5s;
+	color: blue;
 }
 #hero h1:nth-child(3) span {
 	animation-delay: 2.5s;
+	color: blue;
 }
 
 /* End Hero Section */
